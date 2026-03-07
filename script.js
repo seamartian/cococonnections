@@ -74,7 +74,7 @@ document.getElementById("mistakes").innerText =
 "Mistakes remaining: " + mistakes;
 
 if(mistakes===0){
-alert("Game over!");
+alert("Sowwy \nBetter luck next time");
 }
 
 clearSelection();
