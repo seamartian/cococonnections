@@ -3,22 +3,22 @@
     "groups": [
       {
         "name": "Food Tony Soprano Regularly Eats",
-        "color": "#f4b400",
+        "color": "#ff0000",
         "words": ["GABAGOOL","BAKED ZITI","MANICOT","ICE CREAM"]
       },
       {
         "name": "Things That Are Cold",
-        "color": "#0f9d58",
+        "color": "#ffa500",
         "words": ["SNOW","GLACIER","THE SILENT TREATMENT","ICEY POLE"]
       },
       {
         "name": "Things Warner Says He Wants When He Breaks Up With Elle",
-        "color": "#4285f4",
+        "color": "#ffff00",
         "words": ["A JACKIE, NOT A MARILYN","TO GIVE HER A RIDE HOME","TO BECOME A SERIOUS POLITICIAN","SOMEONE MORE SERIOUS"]
       },
       {
         "name": "Two-Word Julia Roberts Movies Minus The First Word",
-        "color": "#db4437",
+        "color": "#00ff00",
         "words": ["WOMAN","MAGNOLIAS","BRIDE","PIZZA"]
       }
     ]
