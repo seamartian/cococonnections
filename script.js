@@ -100,7 +100,7 @@ solvedDiv.appendChild(div);
 removeWords(group.words);
 
 if(solvedGroups.length===4){
-alert("You solved everything!");
+alert("HECK YEAH");
 }
 
 }
