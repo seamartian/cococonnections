@@ -9,7 +9,7 @@ const response = await fetch("puzzles.json");
 const puzzles = await response.json();
 
 const today = new Date().toISOString().slice(0,10);
-puzzle = puzzles[today];
+puzzle = puzzles["2026-03-07"];
 
 let words = puzzle.groups.flatMap(g => g.words);
 
